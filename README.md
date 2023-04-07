@@ -2,9 +2,9 @@
 
 ## Overview
 
-Traccar is an open source GPS tracking system. This repository contains Java-based back-end service. It supports more than 200 GPS protocols and more than 2000 models of GPS tracking devices. Traccar can be used with any major SQL database system. It also provides easy to use [REST API](https://www.traccar.org/traccar-api/).
+Traccar é um sistema de rastreamento GPS de código aberto. Este repositório contém serviço de back-end baseado em Java. Ele suporta mais de 200 protocolos GPS e mais de 2.000 modelos de dispositivos de rastreamento GPS. O Traccar pode ser usado com qualquer sistema de banco de dados SQL importante. Ele também fornece fácil de usar [REST API](https://www.traccar.org/traccar-api/).
 
-Other parts of Traccar solution include:
+Outras partes da solução Traccar incluem:
 
 - [Traccar web app](https://github.com/traccar/traccar-web)
 - [Traccar Manager Android app](https://github.com/traccar/traccar-manager-android)
